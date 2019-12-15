@@ -7,7 +7,7 @@ import java.util.Scanner;
  * @author ajacker
  * @date 2019/12/15 22:56
  */
-public class P1000 {
+public class P0001 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
